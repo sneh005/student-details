@@ -3,7 +3,7 @@ student course management
 description
 A project for maintaining student details.
 
-technology 
+technology used 
 Git & Github
 
 developer
