@@ -4,7 +4,7 @@ description
 A project for maintaining student details.
 
 technology 
-Git
+Git & Github
 
 developer
 sneha
