@@ -1,5 +1,5 @@
-1. Anu - Devops - 20
-2. Bibin - flutter - 22
-3. Diya - UI/UX - 21
-4. Roshni - Devops - 22
-5. Scaria - Python - 21
+1. Anu - Devops - 20 - kochi
+2. Bibin - flutter - 22 - thrisur
+3. Diya - UI/UX - 21 - kottayam
+4. Roshni - Devops - 22 - palakkad 
+5. Scaria - Python - 21 - kanur
